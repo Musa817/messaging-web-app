@@ -12,8 +12,10 @@
 :root {
    /* #36151D is original color.*/
     --primaryDark: #020202;
-    --primaryLight: #EDEBD7;
-    --accent: #E3B23C;
+    /* #EDEBD7 is original color.*/
+    --primaryLight: #F0F6F6;
+    /*E3B23C is original color. */
+    --accent: #A2A7A5;
     --alternate: #593F62;
     --addedPadding: 10px;
 }
